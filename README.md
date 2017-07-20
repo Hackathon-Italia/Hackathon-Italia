@@ -1,7 +1,14 @@
 # Hackathon_Italia
-A collaborative and evolving list of hackathons in Italy.
+A collaborative, curated and evolving list of hackathons in Italy (with a few exceptions).
 
 **Your PRs are more than welcome!**
+
+TODO:
+
+- [x] Start the list
+- [x] Add CONTRIBUTORS.md
+- [ ] Grow the list
+- [ ] Create a website to display the list in a user friendly fashion
 
 What | Who | Where | When | Free | Website
 -----|-----|-----|-----|-----|-----
