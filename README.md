@@ -20,6 +20,7 @@ Hack.Developers | PA + Codemotion | Italia (also Trento) | 07/10/17 - 08/10/17 |
 Creathon - Hackathon per la Cultura | PromoPa Fondazione | Lucca | 12/10/17 - 13/10/17 | YES | [Registration and info](https://www.creathon.it/)
 Primo Hackathon del Calcio Italiano | FIGC + UniTN | Trento | 14/10/17 - 15/10/17 | YES | [Registration and info](http://www.hackathon-figc.unitn.it/it/)
 PosteHack | Poste Italiane | Roma | 20/10/17 - 22/10/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-postehack-5th-edition-37605143998)
+Museum Booster | MAXXI Museum | Roma | 21/10/17 - 22/10/17 | YES | [Registration and info](http://www.maxxi.art/events/museum-booster/)
 Limitless Hack | Vodafone Italia | Milano | 21/10/17 - 22/10/17 | YES | [Registration and info](https://ognisportoltre.it/limitless-hack)
 Climathon | Climate-KIC | Various Cities | 27/10/17 - 28/10/17 | YES | [Registration and info](https://climathon.climate-kic.org/)
 Vertical Innovation Hackathon| IDM Südtirol - Alto Adige | Bolzano | 10/11/17 - 11/11/17 | YES | [Registration and info](http://hackathon.bz.it/)
