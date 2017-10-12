@@ -22,3 +22,5 @@ Primo Hackathon del Calcio Italiano | FIGC + UniTN | Trento | 14/10/17 - 15/10/1
 PosteHack | Poste Italiane | Roma | 20/10/17 - 22/10/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-postehack-5th-edition-37605143998)
 Limitless Hack | Vodafone Italia | Milano | 21/10/17 - 22/10/17 | YES | [Registration and info](https://ognisportoltre.it/limitless-hack)
 Climathon | Climate-KIC | Various Cities | 27/10/17 - 28/10/17 | YES | [Registration and info](https://climathon.climate-kic.org/)
+Vertical Innovation Hackathon| IDM Südtirol - Alto Adige | Bolzano | 10/11/17 - 11/11/17 | YES | [Registration and info](http://hackathon.bz.it/)
+
