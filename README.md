@@ -24,4 +24,5 @@ Museum Booster | MAXXI Museum | Roma | 21/10/17 - 22/10/17 | YES | [Registration
 Limitless Hack | Vodafone Italia | Milano | 21/10/17 - 22/10/17 | YES | [Registration and info](https://ognisportoltre.it/limitless-hack)
 Climathon | Climate-KIC | Various Cities | 27/10/17 - 28/10/17 | YES | [Registration and info](https://climathon.climate-kic.org/)
 Vertical Innovation Hackathon| IDM Südtirol - Alto Adige | Bolzano | 10/11/17 - 11/11/17 | YES | [Registration and info](http://hackathon.bz.it/)
+Agos4Hack | Codemotion + Agos | Milano | 18/11/17 - 19/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-agos4hack-38809898451)
 
