@@ -29,3 +29,4 @@ Hello Bot! The Hackathon | HKN PoliTo | Torino | 11/11/17 - 12/11/17 | NO | [Reg
 Agos4Hack | Codemotion + Agos | Milano | 18/11/17 - 19/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-agos4hack-38809898451)
 HackaMOL 2017 | Gruppo MutuiOnline | Cagliari | 18/11/17 - 19/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/registrazione-hackamol-2017-38651057353)
 The Big [Smart] Hack | Maker Faire Rome | Roma | 25/11/17 - 26/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-the-big-smart-hack-39179204054)
+Social Hackathon | Confcooperative Piacenza | Piacenza | 02/12/17 - 02/12/17 | YES | [Registration and info](https://www.eventbrite.co.uk/e/registrazione-social-hackathon-la-prima-maratona-di-solution-making-collettivo-a-piacenza-38811972655)
