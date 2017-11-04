@@ -23,6 +23,7 @@ PosteHack | Poste Italiane | Roma | 20/10/17 - 22/10/17 | YES | [Registration an
 Museum Booster | MAXXI Museum | Roma | 21/10/17 - 22/10/17 | YES | [Registration and info](http://www.maxxi.art/events/museum-booster/)
 Limitless Hack | Vodafone Italia | Milano | 21/10/17 - 22/10/17 | YES | [Registration and info](https://ognisportoltre.it/limitless-hack)
 Climathon | Climate-KIC | Various Cities | 27/10/17 - 28/10/17 | YES | [Registration and info](https://climathon.climate-kic.org/)
+TIM OPEN HACKATHON | TIM OPEN | Milano | 04/11/17 - 05/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-tim-open-hackathon-4-5-novembre-2017-milano-38006959840)
 Vertical Innovation Hackathon| IDM Südtirol - Alto Adige | Bolzano | 10/11/17 - 11/11/17 | YES | [Registration and info](http://hackathon.bz.it/)
 Agos4Hack | Codemotion + Agos | Milano | 18/11/17 - 19/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-agos4hack-38809898451)
 HackaMOL 2017 | Gruppo MutuiOnline | Cagliari | 18/11/17 - 19/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/registrazione-hackamol-2017-38651057353)
