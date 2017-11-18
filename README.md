@@ -31,3 +31,26 @@ HackaMOL 2017 | Gruppo MutuiOnline | Cagliari | 18/11/17 - 19/11/17 | YES | [Reg
 The Big [Smart] Hack | Maker Faire Rome | Roma | 25/11/17 - 26/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-the-big-smart-hack-39179204054)
 Social Hackathon | Confcooperative Piacenza | Piacenza | 02/12/17 - 02/12/17 | YES | [Registration and info](https://www.eventbrite.co.uk/e/registrazione-social-hackathon-la-prima-maratona-di-solution-making-collettivo-a-piacenza-38811972655)
 Cognitive Hack | Codemotion | Milano | 02/12/17 - 03/12/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-cognitive-hack-39654274001)
+
+### Maintainers
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/Kiailandi"><img width="150" height="150" src="https://github.com/Kiailandi.png?s=150"></a>
+        <br>
+        <a href="https://github.com/Kiailandi">Tommaso Montefusco</a>
+        <br>
+        <p>ICT student at <br> Università degli Studi di Trento.<br> Web designer/developer wannabe <br> and eSports enthusiast.</p>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/damdo"><img width="150" height="150" src="https://github.com/damdo.png?s=150"></a>
+        <br>
+        <a href="https://github.com/damdo">Damiano Donati</a>
+        <br>
+        <p>MSc in Computer Science 🤓<br> Software Engineer 🖥<br> Volunteer Firefighter 🚒<br> Pizza Lover 🍕</p>
+      </td>
+     </tr>
+  </tbody>
+</table>
