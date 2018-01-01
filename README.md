@@ -31,6 +31,7 @@ HackaMOL 2017 | Gruppo MutuiOnline | Cagliari | 18/11/17 - 19/11/17 | YES | [Reg
 The Big [Smart] Hack | Maker Faire Rome | Roma | 25/11/17 - 26/11/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-the-big-smart-hack-39179204054)
 Social Hackathon | Confcooperative Piacenza | Piacenza | 02/12/17 - 02/12/17 | YES | [Registration and info](https://www.eventbrite.co.uk/e/registrazione-social-hackathon-la-prima-maratona-di-solution-making-collettivo-a-piacenza-38811972655)
 Cognitive Hack | Codemotion | Milano | 02/12/17 - 03/12/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-cognitive-hack-39654274001)
+Hackathon droidcon | Synesthesia srl | Torino | 21/04/18 - 22/04/18 | NO | [Registration and info](http://it.droidcon.com/2018/agenda/hackathon/)
 
 ### Maintainers
 
