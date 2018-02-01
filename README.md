@@ -7,8 +7,8 @@ TODO:
 
 - [x] Start the list
 - [x] Add CONTRIBUTORS.md
-- [ ] Grow the list
 - [x] Create a website to display the list in a user friendly fashion (https://kiailandi.github.io/Hackathon_Italia)
+- [ ] Create a better looking website to display the list
 
 What | Who | Where | When | Free | Website
 -----|-----|-----|-----|-----|-----
