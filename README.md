@@ -33,6 +33,7 @@ Social Hackathon | Confcooperative Piacenza | Piacenza | 02/12/17 - 02/12/17 | Y
 Cognitive Hack | Codemotion | Milano | 02/12/17 - 03/12/17 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-cognitive-hack-39654274001)
 Global Game Jam | Global Game Jam | Global | 26/01/18 - 28/01/18 | YES | [Registration and info](https://globalgamejam.org/2018/jam-sites/trento-ggj-contamination-lab)
 Google Hash Code | Google | Europe, Africa, Middle East | 01/03/18 - 01/03/18 | YES | [Registration and info](https://hashcode.withgoogle.com)
+Opendata Hackabot | P.a.T. | Trento | 02/03/18 - 03/03/18 | YES | [Registration and info](https://www.odhb2018.net/)
 Hackathon droidcon | Synesthesia srl | Torino | 21/04/18 - 22/04/18 | NO | [Registration and info](http://it.droidcon.com/2018/agenda/hackathon/)
 
 ### Maintainers
