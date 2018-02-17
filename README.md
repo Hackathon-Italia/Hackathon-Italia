@@ -35,6 +35,7 @@ Global Game Jam | Global Game Jam | Global | 26/01/18 - 28/01/18 | YES | [Regist
 HackItalia | Tortuga | Milano | 22/02/18 - 23/02/18 | YES | [Registration and info](http://tortugaecon.eu/hackitalia/partecipa/)
 Google Hash Code | Google | Europe, Africa, Middle East | 01/03/18 - 01/03/18 | YES | [Registration and info](https://hashcode.withgoogle.com)
 Opendata Hackabot | P.a.T. | Trento | 02/03/18 - 03/03/18 | YES | [Registration and info](https://www.odhb2018.net/)
+Poste Hack | Poste Italiane | Milano | 09/03/18 - 11/03/18 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-poste-hack-7-milano-42416183948)
 Hack Your Move! | FNM, Y4PT, PoliHub | Milano | 16/03/18 - 18/03/18 | YES | [Registration and info](http://www.polihub.it/iniziative/hack-your-move/)
 Hackathon droidcon | Synesthesia srl | Torino | 21/04/18 - 22/04/18 | NO | [Registration and info](http://it.droidcon.com/2018/agenda/hackathon/)
 
