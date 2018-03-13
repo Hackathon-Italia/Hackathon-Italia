@@ -37,6 +37,7 @@ Google Hash Code | Google | Europe, Africa, Middle East | 01/03/18 - 01/03/18 | 
 Opendata Hackabot | P.a.T. | Trento | 02/03/18 - 03/03/18 | YES | [Registration and info](https://www.odhb2018.net/)
 Poste Hack | Poste Italiane | Milano | 09/03/18 - 11/03/18 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-poste-hack-7-milano-42416183948)
 Reply Code Challenge | Reply | Remote | 15/03/18 - 15/03/18 | YES | [Registration and info](https://challenges.reply.com)
+Hackathon Smart Future | UniTN DISI | Trento | 15/03/18 - 16/03/18 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-hackathon-smart-future-ict-days-2018-42988408487)
 Cashless Milano Hack | Codemotion | Milano | 17/03/18 - 18/03/18 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-cashless-milano-hack-43083262197)
 Hack Your Move! | FNM, Y4PT, PoliHub | Milano | 16/03/18 - 18/03/18 | YES | [Registration and info](http://www.polihub.it/iniziative/hack-your-move/)
 H{ack}TML | HTML.it | Roma | 24/03/18 - 25/03/18 | YES | [Registration and info](http://hack.html.it/)
