@@ -42,6 +42,7 @@ Cashless Milano Hack | Codemotion | Milano | 17/03/18 - 18/03/18 | YES | [Regist
 Hack Your Move! | FNM, Y4PT, PoliHub | Milano | 16/03/18 - 18/03/18 | YES | [Registration and info](http://www.polihub.it/iniziative/hack-your-move/)
 H{ack}TML | HTML.it | Roma | 24/03/18 - 25/03/18 | YES | [Registration and info](http://hack.html.it/)
 Hackathon droidcon | Synesthesia srl | Torino | 21/04/18 - 22/04/18 | NO | [Registration and info](http://it.droidcon.com/2018/agenda/hackathon/)
+Fake News Hackathon | Web Marketing Festival | Rimini | 21/06/18 - 23/06/18 | YES | [Registration and info](https://www.webmarketingfestival.it/hackathon/)
 
 ### Maintainers
 
