@@ -1,4 +1,4 @@
-# Hackathon_Italia [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Hackathon-Italia [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 A collaborative, curated and evolving list of hackathons in Italy (with a few exceptions).
 
 **Your PRs are more than welcome!**
