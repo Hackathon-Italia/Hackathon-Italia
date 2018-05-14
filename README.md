@@ -58,7 +58,7 @@ Fake News Hackathon | Web Marketing Festival | Rimini | 21/06/18 - 23/06/18 | YE
         <br>
         <a href="https://github.com/Kiailandi">Tommaso Montefusco</a>
         <br>
-        <p>ICT student at <br> Università degli Studi di Trento.<br> Web designer/developer wannabe <br> and eSports enthusiast.</p>
+        <p>ICT student at <br> Università degli Studi di Trento.<br> "Full-stack" JS developer wannabe <br> and eSports enthusiast.</p>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/damdo"><img width="150" height="150" src="https://github.com/damdo.png?s=150"></a>
