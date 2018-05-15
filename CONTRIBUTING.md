@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Adding to this list](#adding-to-this-list)
-- [Updating your Pull Request](#updating-your-pull-request)
 
 ## Adding to this list
 
