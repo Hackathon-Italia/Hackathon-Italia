@@ -47,6 +47,7 @@ H{ack}TML | HTML.it | Roma | 24/03/18 - 25/03/18 | YES | [Registration and info]
 Hackathon droidcon | Synesthesia srl | Torino | 21/04/18 - 22/04/18 | NO | [Registration and info](http://it.droidcon.com/2018/agenda/hackathon/)
 BiblioHackDay 2018 | Università Bicocca | Milano | 10/05/18 - 10/05/18 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-bibliohackday-2018-45055100017)
 IMRA VR Hackathon | IMRA | Milano | 16/05/18 - 17/05/18 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-imra-vr-hackathon-45470635896?aff=ebdssbdestsearch)
+Cognitive Hack | Codemotion | Milano | 09/06/18 - 10/06/18 | YES | [Registration and info](https://www.eventbrite.co.uk/e/biglietti-cognitivehack-think-milano-2018-45723097014)
 Fake News Hackathon | Web Marketing Festival | Rimini | 21/06/18 - 23/06/18 | YES | [Registration and info](https://www.webmarketingfestival.it/hackathon/)
 
 ### Maintainers
