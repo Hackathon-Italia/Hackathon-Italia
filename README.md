@@ -48,6 +48,7 @@ Hackathon droidcon | Synesthesia srl | Torino | 21/04/18 - 22/04/18 | NO | [Regi
 BiblioHackDay 2018 | Università Bicocca | Milano | 10/05/18 - 10/05/18 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-bibliohackday-2018-45055100017)
 IMRA VR Hackathon | IMRA | Milano | 16/05/18 - 17/05/18 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-imra-vr-hackathon-45470635896?aff=ebdssbdestsearch)
 Cognitive Hack | Codemotion | Milano | 09/06/18 - 10/06/18 | YES | [Registration and info](https://www.eventbrite.co.uk/e/biglietti-cognitivehack-think-milano-2018-45723097014)
+TOBi Hack | Vodafone | Milano | 11/06/18 - 12/06/18 | YES | [Registration and info](http://www.vodafone.it/portal/Privati/TOBi-Hack-2018)
 Fake News Hackathon | Web Marketing Festival | Rimini | 21/06/18 - 23/06/18 | YES | [Registration and info](https://www.webmarketingfestival.it/hackathon/)
 Hack.Data | PA + Codemotion | Italia | 08/07/18 - 23/09/18 | YES | [Registration and info](http://hack.data.italia.it)
 Bosch Mobility Hackathon | Bosch | Milano | 15/09/18 - 16/09/18 | YES | [Registration and info](https://developer.bosch.com/hackathon/mobility-milan/home)
