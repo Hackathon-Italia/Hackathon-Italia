@@ -50,6 +50,7 @@ IMRA VR Hackathon | IMRA | Milano | 16/05/18 - 17/05/18 | YES | [Registration an
 Cognitive Hack | Codemotion | Milano | 09/06/18 - 10/06/18 | YES | [Registration and info](https://www.eventbrite.co.uk/e/biglietti-cognitivehack-think-milano-2018-45723097014)
 TOBi Hack | Vodafone | Milano | 11/06/18 - 12/06/18 | YES | [Registration and info](http://www.vodafone.it/portal/Privati/TOBi-Hack-2018)
 Fake News Hackathon | Web Marketing Festival | Rimini | 21/06/18 - 23/06/18 | YES | [Registration and info](https://www.webmarketingfestival.it/hackathon/)
+Summer Lido Hackathon | HACKATHONBZ | Schenna (BZ) | 03/08/18 - 04/08/18 | YES | [Registration and info](http://hackathon.bz.it/)
 Hack.Data | PA + Codemotion | Italia | 08/07/18 - 23/09/18 | YES | [Registration and info](http://hack.data.italia.it)
 Bosch Mobility Hackathon | Bosch | Milano | 15/09/18 - 16/09/18 | YES | [Registration and info](https://developer.bosch.com/hackathon/mobility-milan/home)
 Hack the Alps | HackTheAlps | Kronplatz – Plan de Corones | 21/09/18 - 23/09/18 | YES | [Registration and info](https://www.hackthealps.it/)
