@@ -52,6 +52,7 @@ TOBi Hack | Vodafone | Milano | 11/06/18 - 12/06/18 | YES | [Registration and in
 Fake News Hackathon | Web Marketing Festival | Rimini | 21/06/18 - 23/06/18 | YES | [Registration and info](https://www.webmarketingfestival.it/hackathon/)
 Summer Lido Hackathon | HACKATHONBZ | Schenna (BZ) | 03/08/18 - 04/08/18 | YES | [Registration and info](http://hackathon.bz.it/)
 Hack.Data | PA + Codemotion | Italia | 08/07/18 - 23/09/18 | YES | [Registration and info](http://hack.data.italia.it)
+HackTS | EESTEC LC Trieste | Trieste (TS) | 20/07/18 - 21/07/18 | YES | [Registration and info](http://ts.eestec.it/hackts/)
 Bosch Mobility Hackathon | Bosch | Milano | 15/09/18 - 16/09/18 | YES | [Registration and info](https://developer.bosch.com/hackathon/mobility-milan/home)
 Hack the Alps | HackTheAlps | Kronplatz – Plan de Corones | 21/09/18 - 23/09/18 | YES | [Registration and info](https://www.hackthealps.it/)
 
