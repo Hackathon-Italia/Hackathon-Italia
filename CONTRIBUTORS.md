@@ -2,3 +2,4 @@
 
 - [Francesco Bonadiman](http://francescobonadiman.com/)
 - [Luca Galasso](https://github.com/GalassoLuca)
+- [Azeot](https://github.com/Azeot)
