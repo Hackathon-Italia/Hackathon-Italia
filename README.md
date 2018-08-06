@@ -55,6 +55,7 @@ HackTS | EESTEC LC Trieste | Trieste (TS) | 20/07/18 - 21/07/18 | YES | [Registr
 Summer Lido Hackathon | HACKATHONBZ | Schenna (BZ) | 03/08/18 - 04/08/18 | YES | [Registration and info](http://hackathon.bz.it/)
 Bosch Mobility Hackathon | Bosch | Milano | 15/09/18 - 16/09/18 | YES | [Registration and info](https://developer.bosch.com/hackathon/mobility-milan/home)
 Hack the Alps | HackTheAlps | Kronplatz – Plan de Corones | 21/09/18 - 23/09/18 | YES | [Registration and info](https://www.hackthealps.it/)
+SOCCER data CHALLENGE | Many - check website | Pisa | 12/10/18 - 13/10/18 | YES | [Registration and info](https://sobigdata-soccerchallenge.it/)
 
 ### Maintainers
 
