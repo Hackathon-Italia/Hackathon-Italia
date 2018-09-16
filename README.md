@@ -56,6 +56,7 @@ Summer Lido Hackathon | HACKATHONBZ | Schenna (BZ) | 03/08/18 - 04/08/18 | YES |
 CiùCiùHack | To Be srl & Ciù Ciù | Offida (AP) | 15/09/18 - 16/09/18 | YES | [Registration and info](https://docs.google.com/forms/d/e/1FAIpQLSe_Q81AFU8q3ahmZ56bMfoaSl6njE-js3acFKWpxHLbav9NqA/viewform)
 Bosch Mobility Hackathon | Bosch | Milano | 15/09/18 - 16/09/18 | YES | [Registration and info](https://developer.bosch.com/hackathon/mobility-milan/home)
 Hack the Alps | HackTheAlps | Kronplatz – Plan de Corones | 21/09/18 - 23/09/18 | YES | [Registration and info](https://www.hackthealps.it/)
+Hack Night @ Museum | Maker Faire Rome | Napoli | 06/10/18 - 07/10/18 | YES | [Registration and info](http://hacknight.makerfairerome.eu/it/)
 SOCCER data CHALLENGE | Many - check website | Pisa | 12/10/18 - 13/10/18 | YES | [Registration and info](https://sobigdata-soccerchallenge.it/)
 
 ### Maintainers
