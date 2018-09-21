@@ -59,6 +59,7 @@ Hack the Alps | HackTheAlps | Kronplatz – Plan de Corones | 21/09/18 - 23/09/1
 AgTech Hackathon | BeeCo Farm | Braccagni (GR) | 22/09/18 - 23/09/18 | YES | [Registration and info](https://www.eventbrite.it/e/registrazione-agtech-hackathon-48726577505)
 Hack Night @ Museum | Maker Faire Rome | Napoli | 06/10/18 - 07/10/18 | YES | [Registration and info](http://hacknight.makerfairerome.eu/it/)
 SOCCER data CHALLENGE | Many - check website | Pisa | 12/10/18 - 13/10/18 | YES | [Registration and info](https://sobigdata-soccerchallenge.it/)
+Museum Booster 2018 | MAXXI Museum | Roma | 27/10/18 - 28/10/18 | YES | [Registration and info](http://www.maxxi.art/events/museum-booster-2018/)
 
 ### Maintainers
 
