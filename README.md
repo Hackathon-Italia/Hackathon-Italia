@@ -61,6 +61,7 @@ Hack Night @ Museum | Maker Faire Rome | Napoli | 06/10/18 - 07/10/18 | YES | [R
 SOCCER data CHALLENGE | Many - check website | Pisa | 12/10/18 - 13/10/18 | YES | [Registration and info](https://sobigdata-soccerchallenge.it/)
 H4O Hackathon | SOI, Fondazione Cottino, Novartis | MILANO | 12/10/18 - 14/10/18 | YES | [Registration and info](https://www.h4omilano.it/it/home/)
 Snam Hack 4 Talents | H-FARM & Snam | Roncade (TV) | 22/10/18 - 22/10/18 | YES | [Registration and info](https://www.h-farm.com/en/events/snam-hack-4-talents)
+Climathon | Climate-KIC | Various Cities | 26/10/18 - 27/10/18 | YES | [Registration and info](https://climathon.climate-kic.org/)
 Museum Booster 2018 | MAXXI Museum | Roma | 27/10/18 - 28/10/18 | YES | [Registration and info](http://www.maxxi.art/events/museum-booster-2018/)
 Digital Fields Hack | TIM, Olivetti, Future Food Institute | Bologna | 27/10/18 - 28/10/18 | YES | [Registration and info](https://www.wcap.tim.it/it/2018/09/digital-fields-hack)
 Vertical Innovation Hackathon | Hackathonbz | Bolzano | 16/11/18 - 17/11/18 | YES | [Registration and info](https://hackathon.bz.it/)
