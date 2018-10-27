@@ -64,6 +64,7 @@ Snam Hack 4 Talents | H-FARM & Snam | Roncade (TV) | 22/10/18 - 22/10/18 | YES |
 Climathon | Climate-KIC | Various Cities | 26/10/18 - 27/10/18 | YES | [Registration and info](https://climathon.climate-kic.org/)
 Museum Booster 2018 | MAXXI Museum | Roma | 27/10/18 - 28/10/18 | YES | [Registration and info](http://www.maxxi.art/events/museum-booster-2018/)
 Digital Fields Hack | TIM, Olivetti, Future Food Institute | Bologna | 27/10/18 - 28/10/18 | YES | [Registration and info](https://www.wcap.tim.it/it/2018/09/digital-fields-hack)
+Weese - Hackathon | Weese | Roma | 31/10/18 - 31/10/18 | YES | [Registration and info](https://hackathonweeseroma.hackathon.com/)
 MuovitiSostenibile Hack | Codemotion | Milano | 14/11/18 - 15/11/18 | YES | [Registration and info](https://www.eventbrite.com/e/biglietti-muovitisostenibile-hack-50698977005)
 Vertical Innovation Hackathon | Hackathonbz | Bolzano | 16/11/18 - 17/11/18 | YES | [Registration and info](https://hackathon.bz.it/)
 
