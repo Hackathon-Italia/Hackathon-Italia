@@ -67,6 +67,7 @@ Digital Fields Hack | TIM, Olivetti, Future Food Institute | Bologna | 27/10/18 
 Weese - Hackathon | Weese | Roma | 31/10/18 - 31/10/18 | YES | [Registration and info](https://hackathonweeseroma.hackathon.com/)
 MuovitiSostenibile Hack | Codemotion | Milano | 14/11/18 - 15/11/18 | YES | [Registration and info](https://www.eventbrite.com/e/biglietti-muovitisostenibile-hack-50698977005)
 Vertical Innovation Hackathon | Hackathonbz | Bolzano | 16/11/18 - 17/11/18 | YES | [Registration and info](https://hackathon.bz.it/)
+Global Game Jam | Global Game Jam | Global | 25/01/19 - 27/01/19 | YES | [Registration and info](https://globalgamejam.org/2019/jam-sites/global-game-jam-trento)
 
 ### Maintainers
 
