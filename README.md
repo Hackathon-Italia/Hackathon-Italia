@@ -69,6 +69,7 @@ MuovitiSostenibile Hack | Codemotion | Milano | 14/11/18 - 15/11/18 | YES | [Reg
 Vertical Innovation Hackathon | Hackathonbz | Bolzano | 16/11/18 - 17/11/18 | YES | [Registration and info](https://hackathon.bz.it/)
 Cambiare Cambiando | Alkemy Lab | Milano | 12/01/19 - 13/01/19 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-cambiare-cambiando-1-hackathon-cooperativo-milano-53593339120)
 Global Game Jam | Global Game Jam | Global | 25/01/19 - 27/01/19 | YES | [Registration and info](https://globalgamejam.org/2019/jam-sites/global-game-jam-trento)
+5th Vuestorefront Hackaton | Bitbull & Eataly | Milano | 01/02/19 - 01/02/19 | YES | [Registration and info](https://www.eventbrite.com/e/5th-vuestorefront-hackaton-tickets-54706169626)
 
 ### Maintainers
 
