@@ -70,6 +70,7 @@ Vertical Innovation Hackathon | Hackathonbz | Bolzano | 16/11/18 - 17/11/18 | YE
 Cambiare Cambiando | Alkemy Lab | Milano | 12/01/19 - 13/01/19 | YES | [Registration and info](https://www.eventbrite.it/e/biglietti-cambiare-cambiando-1-hackathon-cooperativo-milano-53593339120)
 Global Game Jam | Global Game Jam | Global | 25/01/19 - 27/01/19 | YES | [Registration and info](https://globalgamejam.org/2019/jam-sites/global-game-jam-trento)
 5th Vuestorefront Hackaton | Bitbull & Eataly | Milano | 01/02/19 - 01/02/19 | YES | [Registration and info](https://www.eventbrite.com/e/5th-vuestorefront-hackaton-tickets-54706169626)
+Opendata Hackabot 2019 | P.a.T. | Trento | 17/05/19 - 18/05/19 | YES | [Registration and info](https://www.odhb.net/)
 
 ### Maintainers
 
