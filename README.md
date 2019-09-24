@@ -72,6 +72,7 @@ Global Game Jam | Global Game Jam | Global | 25/01/19 - 27/01/19 | YES | [Regist
 5th Vuestorefront Hackaton | Bitbull & Eataly | Milano | 01/02/19 - 01/02/19 | YES | [Registration and info](https://www.eventbrite.com/e/5th-vuestorefront-hackaton-tickets-54706169626)
 Opendata Hackabot 2019 | P.a.T. | Trento | 17/05/19 - 18/05/19 | YES | [Registration and info](https://www.odhb.net/)
 Copernicus Hackathon | Planetek Italia | Bari | 11/10/19 - 13/10/19 | YES | [Registration and info](https://hackcopernicus.planetek.it/)
+NOI Hackathon SFScon Edition | NOI Techpark | Bolzano | 15/11/19 - 16/11/19 | YES | [Registration and info](https://hackathon.bz.it/)
 
 ### Maintainers
 
